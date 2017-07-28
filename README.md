@@ -23,3 +23,7 @@ OpenStack Heat Templates to deploy a CaaSP cluster
 
 Some scripting to walk through the Velum UI to bootstrap a cluster, primarily used
 within CI.
+
+## Test
+
+It is test, please do not merge it 
